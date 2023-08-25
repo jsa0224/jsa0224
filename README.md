@@ -1,5 +1,5 @@
 ![깃헙 배경지](https://user-images.githubusercontent.com/94514250/179678931-0192bcd9-7d7b-414b-901b-fd769aa5192f.png)
-# 느리지만 꾸준히 성장하는 개발자
+# 꾸준히 성장하는 개발자
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsa0224&theme=dracula&show_icons=true)
 
 ### 👩‍💻Tech Stack👩‍💻
