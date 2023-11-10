@@ -8,5 +8,3 @@
 ### 🏷 My Blog
 <a href="https://cuboid-restaurant-e78.notion.site"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
-### 🧩 My Ground
-![](./profile-3d-contrib/profile-gitblock.svg)
