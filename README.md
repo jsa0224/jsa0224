@@ -1,4 +1,5 @@
-![깃헙 배경지](https://user-images.githubusercontent.com/94514250/179678931-0192bcd9-7d7b-414b-901b-fd769aa5192f.png)
+![깃헙 배경지](https://github.com/jsa0224/jsa0224/assets/94514250/4b1c6b9c-f666-4d0e-ad15-0b01b248cb0c)
+
 # 꾸준히 성장하는 개발자
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsa0224&theme=dracula&show_icons=true)
 
