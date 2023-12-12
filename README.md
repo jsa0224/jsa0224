@@ -8,3 +8,5 @@
 ### 🏷 My Blog
 <a href="https://cuboid-restaurant-e78.notion.site"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="https://velog.io/@som24"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"></a>
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=som24)](https://github.com/eungyeole/velog-readme-stats)
